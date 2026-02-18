@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618987122985",
+    "project_id": "annaraksha-f868c",
+    "storage_bucket": "annaraksha-f868c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618987122985:android:3cb7b8a7fd458396e58738",
+        "android_client_info": {
+          "package_name": "com.example.annaraksha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAVMQpY2B1KXlDouX9X2p5jFDCBMLOH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
