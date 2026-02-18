@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:math' as math;
 import 'screens/admin_home.dart';
 import 'screens/warehouse_home.dart';
-import 'screens/shop_home.dart';
+import 'screens/shop/shop_home.dart';
 import 'screens/beneficiary_home.dart';
 
 class LoginPage extends StatefulWidget {
