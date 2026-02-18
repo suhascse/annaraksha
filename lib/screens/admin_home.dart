@@ -163,7 +163,7 @@ class _AdminHomePageState extends State<AdminHomePage> with TickerProviderStateM
     return Column(
       children: [
         Icon(icon, color: color, size: 18),
-        const SizedBox(height: 4),
+        const SizedBox(height:4 ),
         Text(value, style: TextStyle(color: color, fontSize: 13, fontWeight: FontWeight.w700)),
         Text(label, style: const TextStyle(color: Color(0xFFBFC9D1), fontSize: 10)),
       ],
