@@ -3,7 +3,7 @@ import 'dart:math' as math;
 import 'screens/admin_home.dart';
 import 'screens/warehouse_home.dart';
 import 'screens/shop/shop_home.dart';
-import 'screens/beneficiary_home.dart';
+import 'screens/beneficiary/beneficiary_home_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
